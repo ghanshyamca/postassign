@@ -1,0 +1,1223 @@
+{"user":[{
+	"name": "Ajay",
+	"Image": "profile/ajay.png",
+	"age": "23",
+	"gender": "male",
+	"profession": "teacher",
+	"qualification": "mca",
+	"address": "Mumbai 40001",
+	"postd": [{
+			"ptitle": "Education",
+			"pname": "suresh",
+			"pby": "post/by/u1.jpg",
+			"pid": 1,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Digital india",
+			"pname": "mahesh",
+			"pby": "post/by/u2.png",
+			"pid": 2,
+			"post": "Enterpreneursship is has to start by every startup to became a digital india",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Techz",
+			"pname": "Sunita",
+			"pby": "post/by/u3.png",
+			"pid": 3,
+			"post": "Techz is a event please participate and show your passion to profession",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education1",
+			"pname": "suresh",
+			"pby": "post/by/u4.png",
+			"pid": 4,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education2",
+			"pname": "suresh",
+			"pby": "post/by/u5.png",
+			"pid": 5,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education3",
+			"pname": "suresh",
+			"pby": "post/by/u6.jpg",
+			"pid": 6,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education8",
+			"pname": "suresh",
+			"pby": "post/by/u7.png",
+			"pid": 7,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education9",
+			"pname": "suresh",
+			"pby": "post/by/u8.jpg",
+			"pid": 8,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education10",
+			"pname": "suresh",
+			"pby": "post/by/u9.png",
+			"pid": 9,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education11",
+			"pname": "suresh",
+			"pby": "post/by/u10.png",
+			"pid": 10,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education12",
+			"pname": "suresh",
+			"pby": "post/by/u11.png",
+			"pid": 11,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}
+
+	]
+
+}, {
+	"name": "vijay",
+	"Image": "profile/vijay.jpg",
+	"age": "18",
+	"gender": "male",
+	"profession": "tester",
+	"qualification": "bca",
+	"address": "kandivali 40001",
+	"postd": [{
+			"ptitle": "Education",
+			"pname": "suresh",
+			"pby": "post/by/u1.jpg",
+			"pid": 1,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Digital india",
+			"pname": "mahesh",
+			"pby": "post/by/u2.png",
+			"pid": 2,
+			"post": "Enterpreneursship is has to start by every startup to became a digital india",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Techz",
+			"pname": "Sunita",
+			"pby": "post/by/u3.png",
+			"pid": 3,
+			"post": "Techz is a event please participate and show your passion to profession",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education1",
+			"pname": "suresh",
+			"pby": "post/by/u4.png",
+			"pid": 4,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education2",
+			"pname": "suresh",
+			"pby": "post/by/u5.png",
+			"pid": 5,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education3",
+			"pname": "suresh",
+			"pby": "post/by/u6.jpg",
+			"pid": 6,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education8",
+			"pname": "suresh",
+			"pby": "post/by/u7.png",
+			"pid": 7,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education9",
+			"pname": "suresh",
+			"pby": "post/by/u8.jpg",
+			"pid": 8,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education10",
+			"pname": "suresh",
+			"pby": "post/by/u9.png",
+			"pid": 9,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education11",
+			"pname": "suresh",
+			"pby": "post/by/u10.png",
+			"pid": 10,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education12",
+			"pname": "suresh",
+			"pby": "post/by/u11.png",
+			"pid": 11,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}
+
+	]
+}, {
+	"name": "Anita",
+	"Image": "profile/anita.png",
+	"age": "20",
+	"gender": "female",
+	"profession": "Hr",
+	"qualification": "mba",
+	"address": "gurgaon 50001",
+	"postd": [{
+			"ptitle": "Education",
+			"pname": "suresh",
+			"pby": "post/by/u1.jpg",
+			"pid": 1,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Digital india",
+			"pname": "mahesh",
+			"pby": "post/by/u2.png",
+			"pid": 2,
+			"post": "Enterpreneursship is has to start by every startup to became a digital india",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Techz",
+			"pname": "Sunita",
+			"pby": "post/by/u3.png",
+			"pid": 3,
+			"post": "Techz is a event please participate and show your passion to profession",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education1",
+			"pname": "suresh",
+			"pby": "post/by/u4.png",
+			"pid": 4,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education2",
+			"pname": "suresh",
+			"pby": "post/by/u5.png",
+			"pid": 5,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education3",
+			"pname": "suresh",
+			"pby": "post/by/u6.jpg",
+			"pid": 6,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education8",
+			"pname": "suresh",
+			"pby": "post/by/u7.png",
+			"pid": 7,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education9",
+			"pname": "suresh",
+			"pby": "post/by/u8.jpg",
+			"pid": 8,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education10",
+			"pname": "suresh",
+			"pby": "post/by/u9.png",
+			"pid": 9,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education11",
+			"pname": "suresh",
+			"pby": "post/by/u10.png",
+			"pid": 10,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}, {
+			"ptitle": "Education12",
+			"pname": "suresh",
+			"pby": "post/by/u11.png",
+			"pid": 11,
+			"post": "This is all have common right for education",
+			"comment": [{
+			"cby":"sangeeta",
+			"cword":"yah i will definitely support in your venture"
+			},
+			{
+			"cby":"nirav",
+			"cword":"education is right of every people so i will also..."
+			},
+			{
+			"cby":"sanjay",
+			"cword":"lol this is the important"
+			},
+			{
+			"cby":"sumit",
+			"cword":"Information technology wil support for this"
+			},
+			{
+			"cby":"anita",
+			"cword":"yah i will also"
+			},
+			{
+			"cby":"geeta",
+			"cword":"yah i will definitely ......."
+			},
+			{
+			"cby":"extra",
+			"cword":"yah i will definitely extra......."
+			}
+			]
+
+		}
+
+	]
+}]}
